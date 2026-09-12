@@ -30,4 +30,4 @@ Bu repo, veri bilimi yolculuğunda temel araçları öğrenmek, pratik yapmak ve
 
 ## Not
 
-Bu çalışma, 07.10.2023 tarihinde yaşanan çalışma / Git branch sorunu nedeniyle oluşturulan kısa bir notun ardından düzenli bir öğrenme klasörü olarak geliştirilmiştir.
+Bu çalışma, 07.10.2023 tarihinde yapılan çalışma / Git branch sorunu nedeniyle oluşturulan kısa bir notun ardından düzenli bir öğrenme klasörü olarak geliştirilmiştir.
